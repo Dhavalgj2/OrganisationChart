@@ -1,0 +1,31 @@
+.edit-chart-wrapper .toolbar {
+  padding: 0.5rem;
+  margin: 10px;
+  border: 1px solid #aaa;
+  display: flex;
+}
+
+.edit-chart-wrapper .toolbar h4 {
+  margin: 0;
+}
+
+.edit-chart-wrapper .toolbar input {
+  font-size: 1rem;
+}
+
+.edit-chart-wrapper .toolbar > div {
+  display: inline-block;
+  flex: 1 1 0;
+}
+
+.edit-chart-wrapper .toolbar ul {
+  display: inline-block;
+  vertical-align: text-top;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.edit-chart-wrapper .toolbar .new-nodes li {
+  padding: 0.25rem 0;
+}
